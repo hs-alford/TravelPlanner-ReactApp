@@ -1,0 +1,47 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.form-group {
+  margin-top: .3em;
+  margin-bottom: .3em;
+}
+
+label {
+  font-weight:600;
+}
+
+ul.fw-bold-600 li div.fw-bold {
+  font-weight:600 !important;
+}
+
+.edit-tags-list {
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding-top:.5em;
+}
+
+.tag-badge {
+  font-size: .85em;
+  margin:.2em .2em;
+  display: flex;
+  align-items: center;
+}
+
+.tag-badge .tag-remove-btn {
+  width: .4em !important;
+  height: .4em !important;
+  margin-left:.5em;
+}
